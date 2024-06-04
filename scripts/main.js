@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // Create and append "Know More" button
     const knowMoreButton = document.createElement("a");
     knowMoreButton.className = "know-more";
-    knowMoreButton.href = "#"; // Update with the actual link if needed
-    knowMoreButton.textContent = "Know More";
+    knowMoreButton.href = "#";
+    knowMoreButton.textContent = "Know More →";
     photo.appendChild(knowMoreButton);
   });
 });
