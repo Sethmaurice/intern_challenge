@@ -2,6 +2,9 @@
 
 ## Description
 This project is an interactive photo gallery built using HTML, CSS, and JavaScript. It is designed to be responsive and includes hover interactions to display additional details about each photo.
+## Hosted Link
+You can access the live version of the project at the following link:
+[Interactive Photo Gallery](https://intern-challenge-gamma.vercel.app/)
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
